@@ -1,0 +1,3 @@
+[submodule "ppgcc"]
+	path = ppgcc
+	url = https://github.com/IamNatri/ppgcc
