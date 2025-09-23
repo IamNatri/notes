@@ -1,11 +1,12 @@
 Preparation notes fo java 1z0-808 exam
 
 # Java SE 8 Programmer I (1Z0-808) Exam Preparation Notes
+
 ## guidelines
 Java Basics 
 
     [] Define the scope of variables 
-    [] Define the structure of a Java class
+    [x] Define the structure of a Java class
     [] Create executable Java applications with a main method; run a Java program from the command line; produce console output
     [] Import other Java packages to make them accessible in your code
     [] Compare and contrast the features and components of Java such as: platform independence, object orientation, encapsulation, etc.
@@ -80,3 +81,10 @@ Assume the following:
     Unintended line breaks: Sample code might have unintended line breaks. If you see a line of code that looks like it has wrapped, and this creates a situation where the wrapping is significant (for example, a quoted String literal has wrapped), assume that the wrapping is an extension of the same line, and the line does not contain a hard carriage return that would cause a compilation failure.
     Code fragments: A code fragment is a small section of source code that is presented without its context. Assume that all necessary supporting code exists and that the supporting environment fully supports the correct compilation and execution of the code shown and its omitted environment.
     Descriptive comments: Take descriptive comments, such as "setter and getters go here," at face value. Assume that correct code exists, compiles, and runs successfully to create the described effect.
+
+
+
+## tips
+
+    1. be aware of the input arguments to the main method {12} is different from {1 2}
+
